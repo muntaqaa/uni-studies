@@ -1,6 +1,7 @@
 # uni-studies:
 ## Practice materials and solutions for all sorts of problems I've solved throughout my university years.
 ### Courses:
+
 1. CSE230: _Discrete Mathematics_<br>
 > Study of mathematical foundations used in computer science. It covers- Propositional Logic, Predicate Logic, Logical Proofs, Set Theory, Fuctions, Sequences, Induction, Recursion (more topics to be added)
 
